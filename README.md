@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me = saailakshmicode@gmail.com
+- 📫 How to reach me = Lakshmi04Saai@gmail.com
 
 <!---
 SaaiLakshmi04/SaaiLakshmi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
